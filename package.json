@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/reallyawesomedevelopers/opendocs.io/issues"
   },
-  "homepage": "https://github.com/reallyawesomedevelopers/opendocs.io"
+  "homepage": "https://github.com/reallyawesomedevelopers/opendocs.io",
+  "dependencies": {
+    "koa": "^0.5.1",
+    "koa-etag": "^1.2.3",
+    "koa-response-time": "^1.0.1",
+    "koa-json": "0.0.2",
+    "koa-gzip": "0.0.3",
+    "koa-static": "^1.4.3",
+    "koa-route": "^1.1.1",
+    "koa-passport": "^0.2.0",
+    "koa-body": "0.0.4",
+    "co-views": "^0.2.0"
+  }
 }
